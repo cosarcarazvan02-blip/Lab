@@ -1,1 +1,3 @@
 # Lab
+
+OOP Laborator facultate
